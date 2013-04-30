@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="immutability">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/immutability.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
