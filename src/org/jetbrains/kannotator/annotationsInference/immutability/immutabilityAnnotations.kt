@@ -6,9 +6,10 @@ enum class VariableImmutabilityAnnotation : Annotation {
     MUTABLE
     ISOLATED
     AS_CLASS
+    TRANSIENT
 }
 
-enum class MethodImmutabilityAnnotation : Annotation {
+enum class MethodImmutabilityAnnotation: Annotation {
     CONST
     THIS_ISOLATED
 }
